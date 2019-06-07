@@ -1,6 +1,6 @@
 errorShots/*
 node_modules
-#ide section
+# IDE section
 .idea
 # Reports section
 allure-report
