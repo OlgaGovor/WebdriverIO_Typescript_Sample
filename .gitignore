@@ -1,0 +1,7 @@
+errorShots/*
+node_modules
+#ide section
+.idea
+# Reports section
+allure-report
+allure-results
